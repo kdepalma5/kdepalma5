@@ -9,7 +9,7 @@
 - Conducted comprehensive exploratory data analysis with visualizations to uncover key insights.
 - Preprocessed data: addressed missing values, outliers, and one-hot encoded features.
 - Engineered features to optimize model performance.
-- Implemented and fine-tuned algorithms including Random Forest, Gradient Boosting, XGBoost, and more.
+- Implemented and fine-tuned algorithms including Random Forest, Hist Gradient Boosting Classifier, XGBoost, and more.
 
 ## [🏠 Airbnb Accommodation Prediction Model](https://github.com/kdepalma5/Airbnb_ML_Project)
 - Predicted guest capacity using NYC Airbnb listings data with models like Linear Regression, Decision Tree Regressor, Stacking Regressor, Gradient Boosted Trees, and Random Forest.
